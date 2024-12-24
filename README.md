@@ -12,20 +12,16 @@
 </table>
 
 ## 🧭 Current Interest 
----
 - Causal Inference and LLM utilization
 - Data-Driven Decision Making for Business
 - Supply Chain Management and Corporate Governance 
 
 ## 🖋️ Education 
----
 - Korea University, Seoul, Korea (Mar. 2021 ~ Current)  B.S., Business & Statistics|
 - Copenhagen Business School, Copenhagen, Denmark (Sep. 2023 ~ Jan. 2024)
 
 ## 📚 Tech Stack
----
 <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /><img src="https://img.shields.io/badge/jupyter-%23F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white" /><img src="https://img.shields.io/badge/r-%276DC3.svg?&style=for-the-badge&logo=r&logoColor=white" /><img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/><img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" />
 
 ## ☀️ Contact
----
 <a href="https://www.instagram.com/hayowvj/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hayowvj/"/><a href="mailto:joaniechung2821@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=joaniechung2821@gmail.com"/></a>
