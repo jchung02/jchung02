@@ -12,9 +12,8 @@
 </table>
 
 ## 🧭 Current Interest 
-- Causal Inference and LLM utilization
-- Data-Driven Decision Making for Business
-- Supply Chain Management and Corporate Governance 
+- Reliable, Data-Driven Decision Making with Causal Inference & Causal Discovery
+- Agentic Systems and LLM utilization for Business
 
 ## 🖋️ Education 
 - Korea University, Seoul, Korea (Mar. 2021 ~ Current)  B.S., Business & Statistics|
