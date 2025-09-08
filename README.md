@@ -11,13 +11,22 @@
   </tr>
 </table>
 
-## 🧭 Current Interest 
-- Reliable, Data-Driven Decision Making with Causal Inference & Causal Discovery
-- Agentic Systems and LLM utilization for Business
+## 🧭 Research & Interests
+- Causal Inference & Discovery for reliable decision-making
+- Agentic LLM Systems for business applications
 
 ## 🖋️ Education 
-- Korea University, Seoul, Korea (Mar. 2021 ~ Current)  B.S., Business & Statistics|
-- Copenhagen Business School, Copenhagen, Denmark (Sep. 2023 ~ Jan. 2024)
+- Korea University, Seoul, Korea (Mar. 2021 ~ Current)  
+  B.S. in Business Administration & Statistics  
+- Copenhagen Business School, Copenhagen, Denmark (Sep. 2023 ~ Jan. 2024)  
+  Exchange Program
+
+## 📑 Publications 
+- **ORCA: ORchestrating Causal Agent**  
+  Joanie Hayoun Chung, Chaemyung Lim, Sumin Lee, Sungbin Lim; *arXiv*, 2025.  
+- **Score-informed Neural Operator for Enhancing Ordering-based Causal Discovery**  
+  Jiyeon Kang, Songseong Kim, Chanhui Lee, Doyeong Hwang, Joanie Hayoun Chung, Yunkyung Ko, Sumin Lee, Sungwoong Kim, Sungbin Lim; *arXiv*, 2025.  
+  (Submitted to NeurIPS 2025, under review)
 
 ## 📚 Tech Stack
 <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /><img src="https://img.shields.io/badge/jupyter-%23F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white" /><img src="https://img.shields.io/badge/r-%276DC3.svg?&style=for-the-badge&logo=r&logoColor=white" /><img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/><img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" />
