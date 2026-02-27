@@ -1,15 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Joanie%20Hayoun%20Chung&fontAlignY=40&desc=AI%20Engineer%20%7C%20Causal%20and%20Human-centered%20AI&fontSize=60&descSize=20&descAlignY=60&animation=fadeIn)
 
-<table align="center" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=jchung02&show_icons=true&theme=transparent&hide_rank=true&show=reviews&card_width=400" />
-    </td>
-    <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jchung02&theme=transparent&layout=compact&card_width=400&langs_count=5" />
-    </td>
-  </tr>
-</table>
 ## 🧭 Research & Interests
 - Causal Inference and Discovery for reliable decision-making
 - Agentic AI and LLM-based systems
