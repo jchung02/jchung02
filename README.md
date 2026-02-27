@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Joanie%20Hayoun%20Chung&desc=AI%20Engineer%20%7C%20Causal%20%26%20Human-centered%20AI&fontSize=60&descSize=20&descAlignY=75&animation=fadeIn)
+[![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Joanie%20Hayoun%20Chung&desc=AI%20Engineer%20%7C%20Causal%20%26%20Human-centered%20AI&fontSize=60&descSize=20&descAlignY=75&animation=fadeIn)
+](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Joanie%20Hayoun%20Chung&desc=%20AI%20Engineer%20|%20Causality%20/%20Human-centered%20AI&descSize=20&descAlignY=59&descAlign=70&fontAlignY=32)
 
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
