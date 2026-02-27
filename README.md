@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Joanie%20Chung&desc=AI%20Engineer%20%7C%20Causal%20%26%20Human-centered%20AI&fontSize=70&descAlign=70&descAlignY=60&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Joanie%20Hayoun%20Chung&desc=AI%20Engineer%20%7C%20Causal%20%26%20Human-centered%20AI&fontSize=60&descSize=20&descAlignY=75&animation=fadeIn)
 
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
@@ -34,7 +34,7 @@
 Python | PyTorch | HuggingFace | PostgreSQL | Docker | LangGraph | Distributed Training
 
 ## ☀️ Contact
-<a href="[https://www.linkedin.com/in/your-id/](https://www.linkedin.com/in/joaniehayounchung/)">
+<a href="https://www.linkedin.com/in/joaniehayounchung/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:joaniechung2821@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=joaniechung2821@gmail.com"/></a>
