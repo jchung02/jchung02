@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=3774D6&height=250&section=header&text=Joanie%20Hayoun%20Chung%20&desc=Business%20Data%20Scientist&fontColor=0d0100&fontSize=70&descAlign=80&descAlignY=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Joanie%20Chung&desc=AI%20Engineer%20%7C%20Causal%20%26%20Human-centered%20AI&fontSize=70&descAlign=70&descAlignY=60&animation=fadeIn)
 
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
@@ -12,24 +12,29 @@
 </table>
 
 ## 🧭 Research & Interests
-- Causal Inference & Discovery for reliable decision-making
-- Agentic LLM Systems for business applications
+- Causal Inference and Discovery for reliable decision-making
+- Agentic AI and LLM-based systems
+- Human-centered AI and interactive data analysis
 
 ## 🖋️ Education 
-- Korea University, Seoul, Korea (Mar. 2021 ~ Current)  
-  B.S. in Business Administration & Statistics  
-- Copenhagen Business School, Copenhagen, Denmark (Sep. 2023 ~ Jan. 2024)  
-  Exchange Program
+- M.S. in Statistics, Korea University, Seoul, Korea (Expected 2027)
+- B.S. in Business Administration & Statistics, Korea University, 2026
+- Exchange Program, Copenhagen Business School, 2023–2024
 
 ## 📑 Publications 
-- **ORCA: ORchestrating Causal Agent**  
-  Joanie Hayoun Chung, Chaemyung Lim, Sumin Lee, Sungbin Lim; *arXiv*, 2025.  
-- **Score-informed Neural Operator for Enhancing Ordering-based Causal Discovery**  
-  Jiyeon Kang, Songseong Kim, Chanhui Lee, Doyeong Hwang, Joanie Hayoun Chung, Yunkyung Ko, Sumin Lee, Sungwoong Kim, Sungbin Lim; *arXiv*, 2025.  
-  (Submitted to NeurIPS 2025, under review)
+- **ORCA: ORchestrating Causal Agent**
+  - Joanie Hayoun Chung, Chaemyung Lim, Sumin Lee, Sungbin Lim  
+  - CHI 2026 Poster
+
+- **Score-informed Neural Operator for Enhancing Ordering-based Causal Discovery**
+  - Jiyeon Kang, Songseong Kim, Chanhui Lee, Doyeong Hwang, Joanie Hayoun Chung, Yunkyung Ko, Sumin Lee, Sungwoong Kim, Sungbin Lim  
+  - NeurIPS 2025 
 
 ## 📚 Tech Stack
-<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /><img src="https://img.shields.io/badge/jupyter-%23F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white" /><img src="https://img.shields.io/badge/r-%276DC3.svg?&style=for-the-badge&logo=r&logoColor=white" /><img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/><img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" />
+Python | PyTorch | HuggingFace | PostgreSQL | Docker | LangGraph | Distributed Training
 
 ## ☀️ Contact
-<a href="https://www.instagram.com/hayowvj/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hayowvj/"/><a href="mailto:joaniechung2821@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=joaniechung2821@gmail.com"/></a>
+<a href="[https://www.linkedin.com/in/your-id/](https://www.linkedin.com/in/joaniehayounchung/)">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:joaniechung2821@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=joaniechung2821@gmail.com"/></a>
